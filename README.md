@@ -7,7 +7,7 @@ I'm a student at 42 Paris, currently building strong foundations in software dev
 - 🎓 Student at 42 Paris
 - 💻 Learning C, Python, Linux and networking
 - 🧠 Interested in software development and artificial intelligence
-- 🔧 Working on projects from the 42 common core
+- 🔧 Building projects through the 42 Paris common core
 
 ## Technical skills
 
