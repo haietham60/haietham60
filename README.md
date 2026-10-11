@@ -34,5 +34,5 @@ My 42 school project source code is kept private to respect the pedagogical fram
 
 ## Links
 
-- LinkedIn: https://www.linkedin.com/in/haietham-lassoued-9abb5b423/?isSelfProfile=true
+- LinkedIn: https://www.linkedin.com/in/haietham-lassoued
 - Projects overview: https://github.com/haietham60/42-projects-overview
