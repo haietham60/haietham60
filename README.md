@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Haietham 👋
 
-<!--
-**haietham60/haietham60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at 42 Paris, currently building strong foundations in software development through project-based learning.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student at 42 Paris
+- 💻 Learning C, Python, Linux and networking
+- 🧠 Interested in software development and artificial intelligence
+- 🔧 Working on projects from the 42 common core
+
+## Technical skills
+
+- C
+- Python
+- Linux
+- Git
+- Bash
+- Networking
+- System administration
+- Algorithms
+
+## 42 Paris projects
+
+- Libft
+- ft_printf
+- get_next_line
+- push_swap
+- Born2beroot
+- NetPractice
+- Piscine Python
+
+My 42 school project source code is kept private to respect the pedagogical framework of the school.
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/haietham-lassoued-9abb5b423/?isSelfProfile=true
+- Projects overview: https://github.com/haietham60/42-projects-overview
