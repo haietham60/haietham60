@@ -46,14 +46,6 @@ My 42 school project source code is kept private to respect the pedagogical fram
 
 ---
 
-## GitHub Stats
-
-![Haietham's GitHub stats](https://github-readme-stats.vercel.app/api?username=haietham60&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haietham60&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/haietham-lassoued
